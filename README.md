@@ -32,7 +32,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        language: [  ]
+        language: [ english ]
  Check failure on line 35 in .github/workflows/codeql-analysis.yml
 
 GitHub Actions
